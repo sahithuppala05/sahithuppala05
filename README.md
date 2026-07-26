@@ -1,11 +1,20 @@
 # Hi, I'm Sahith 👋
 
-📊 I'm currently working on Data Analytics projects and interactive Power BI dashboards.
-🤝 I'm looking to collaborate on Data Analytics, AI, and Open Source projects.
-🌱 I'm currently learning Machine Learning, Cloud Technologies, and Advanced Data Analytics.
-💬 Ask me about Python, SQL, Excel, Power BI, Data Visualization, and Cyber Security.
-📫 How to reach me: sahithuppala05@gmail.com | LinkedIn: https://www.linkedin.com/in/sahithuppala/
-⚡ Fun fact: I love solving real-world problems with data and building impactful analytics solutions.
+📊 I'm a Computer Science graduate specializing in **Data Analytics** and **Cyber Security**, passionate about transforming data into actionable insights.
+
+💻 I'm currently working on **Data Analytics projects** and building interactive **Power BI dashboards** using **Python, SQL, Excel, and Power BI**.
+
+🤝 I'm looking to collaborate on **Data Analytics, Business Intelligence, AI, and Open Source** projects.
+
+🌱 I'm currently learning **Advanced SQL, Machine Learning, Cloud Technologies, and Data Engineering**.
+
+💬 Ask me about **Python, SQL, Excel, Power BI, Data Visualization, Business Intelligence, and Cyber Security**.
+
+📄 Published a research paper titled **"A Review on AI-Driven Smart Crop Advisory Systems for Small and Marginal Farmers"** at **COMPUTATIA 2026**.
+
+📫 How to reach me: **sahithuppala05@gmail.com** | LinkedIn: **https://www.linkedin.com/in/sahithuppala/**
+
+⚡ Fun fact: I enjoy solving real-world business problems by turning raw data into meaningful insights through analytics and interactive dashboards.
 
 
 ## 🌐 Socials:

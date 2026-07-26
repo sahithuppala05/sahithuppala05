@@ -1,5 +1,11 @@
-# 💫 About Me:
-# Hi there, I'm Sahith Uppala 👋<br><br>💻 I'm currently working on Data Analytics projects using Python, SQL, Excel, and Power BI.<br>🤝 I'm looking to collaborate on Data Analytics, Business Intelligence, and Open Source projects.<br>🌱 I'm currently learning Advanced SQL, Power BI, Python, Machine Learning, and Cloud Technologies.<br>💬 Ask me about Python, SQL, Power BI, Excel, Data Visualization, and Cyber Security.<br>📫 Reach me at: sahithuppala05@gmail.com <br>⚡ Fun fact: I enjoy turning raw data into meaningful insights through dashboards and analytics.
+# Hi, I'm Sahith 👋
+
+📊 I'm currently working on Data Analytics projects and interactive Power BI dashboards.
+🤝 I'm looking to collaborate on Data Analytics, AI, and Open Source projects.
+🌱 I'm currently learning Machine Learning, Cloud Technologies, and Advanced Data Analytics.
+💬 Ask me about Python, SQL, Excel, Power BI, Data Visualization, and Cyber Security.
+📫 How to reach me: sahithuppala05@gmail.com | LinkedIn: https://www.linkedin.com/in/sahithuppala/
+⚡ Fun fact: I love solving real-world problems with data and building impactful analytics solutions.
 
 
 ## 🌐 Socials:
